@@ -10,13 +10,16 @@ Luiz Felipe Camargo Prendin – RM552475
 
 Gabriel Amâncio - RM97936
 
-## Arquitetura API
+
+### Arquitetura API
 
 Monolítica
 
-## Design Patterns
+
+### Design Patterns
 
 Singleton
 
-## Instruções API
+
+### Instruções API
 
