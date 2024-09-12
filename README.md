@@ -18,5 +18,5 @@ Monolítica
 
 Singleton
 
-## Instruçôes API
+## Instruções API
 
