@@ -14,9 +14,14 @@ Gabriel Amâncio - RM97936
 
 Monolítica
 
+
 ## Design Patterns
 
 Singleton
 
+
 ## Instruções API
+
+
+
 
