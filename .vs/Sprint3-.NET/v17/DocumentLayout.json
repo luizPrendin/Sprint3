@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E4F5A66-D3E9-4578-B88E-38E80AF8835B}|Sprint3.Service\\Sprint3.Service.csproj|c:\\users\\labsfiap\\source\\repos\\sprint3-.net\\sprint3.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E4F5A66-D3E9-4578-B88E-38E80AF8835B}|Sprint3.Service\\Sprint3.Service.csproj|solutionrelative:sprint3.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F5641C7-EF75-49CF-AC2F-F86183EA4A67}|Sprint3.Models\\Sprint3.Models.csproj|c:\\users\\labsfiap\\source\\repos\\sprint3-.net\\sprint3.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5641C7-EF75-49CF-AC2F-F86183EA4A67}|Sprint3.Models\\Sprint3.Models.csproj|solutionrelative:sprint3.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E95D9BB8-493E-4814-B079-537F4B8FB714}|Sprint3.Repository\\Sprint3.Repository.csproj|c:\\users\\labsfiap\\source\\repos\\sprint3-.net\\sprint3.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E95D9BB8-493E-4814-B079-537F4B8FB714}|Sprint3.Repository\\Sprint3.Repository.csproj|solutionrelative:sprint3.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E888F7D3-16D2-4C8A-A0FA-7B421F3D39F5}|Sprint3.Database\\Sprint3.Database.csproj|c:\\users\\labsfiap\\source\\repos\\sprint3-.net\\sprint3.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E888F7D3-16D2-4C8A-A0FA-7B421F3D39F5}|Sprint3.Database\\Sprint3.Database.csproj|solutionrelative:sprint3.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E4F5A66-D3E9-4578-B88E-38E80AF8835B}|Sprint3.Service\\Sprint3.Service.csproj|c:\\users\\labsfiap\\source\\repos\\sprint3-.net\\sprint3.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4F5A66-D3E9-4578-B88E-38E80AF8835B}|Sprint3.Service\\Sprint3.Service.csproj|solutionrelative:sprint3.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D521237-0140-45AE-A4F2-ABA6388BA1B1}|Models\\Models.csproj|c:\\users\\labsfiap\\source\\repos\\sprint3-.net\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D521237-0140-45AE-A4F2-ABA6388BA1B1}|Models\\Models.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Models\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E888F7D3-16D2-4C8A-A0FA-7B421F3D39F5}|Sprint3.Database\\Sprint3.Database.csproj|c:\\users\\labsfiap\\source\\repos\\sprint3-.net\\sprint3.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E888F7D3-16D2-4C8A-A0FA-7B421F3D39F5}|Sprint3.Database\\Sprint3.Database.csproj|solutionrelative:sprint3.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +35,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Sprint3.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Sprint3.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Sprint3.Models\\Class1.cs",
+              "RelativeToolTip": "Sprint3.Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:51:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Models\\Class1.cs",
+              "RelativeToolTip": "Models\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:46:07.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Sprint3.Service\\Class1.cs",
               "RelativeDocumentMoniker": "Sprint3.Service\\Class1.cs",
@@ -56,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Sprint3.Database\\Class1.cs",
               "RelativeDocumentMoniker": "Sprint3.Database\\Class1.cs",
@@ -64,21 +96,7 @@
               "RelativeToolTip": "Sprint3.Database\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:28:56.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Models\\Class1.cs",
-              "RelativeDocumentMoniker": "Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\Sprint3-.NET\\Models\\Class1.cs",
-              "RelativeToolTip": "Models\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:20:14.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T14:28:56.762Z"
             }
           ]
         }

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Sprint3_.NET.Controllers
+namespace Sprint3.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

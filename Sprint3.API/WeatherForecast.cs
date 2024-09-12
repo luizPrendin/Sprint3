@@ -1,4 +1,4 @@
-namespace Sprint3_.NET
+namespace Sprint3.API
 {
     public class WeatherForecast
     {
