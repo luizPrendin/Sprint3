@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vYcbR8ac2k=",
+  "dgSpecHash": "pv4/xUc8ntU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\labsfiap\\Source\\Repos\\Sprint3-.NET\\Sprint3-.NET\\Sprint3-.NET.csproj",
+  "projectFilePath": "C:\\Users\\labsfiap\\Source\\Repos\\Sprint3-.NET\\Sprint3-.NET\\Sprint3.API.csproj",
   "expectedPackageFiles": [
     "C:\\Softwares\\Nuget\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Softwares\\Nuget\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
