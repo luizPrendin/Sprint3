@@ -1,16 +1,16 @@
 # Sprint3-.NET
 
-### Arquitetura API
+## Arquitetura API
 
 Monolítica
 
 
-### Design Patterns
+## Design Patterns
 
 Singleton
 
 
-### Instruções API
+## Instruções API
 
 
 ## Integrantes
