@@ -21,6 +21,10 @@ A API segue a arquitetura **monolítica**, implementada com **ASP.NET Core Web A
 - [Oracle Database](https://www.oracle.com/database/)
 - [Postman](https://www.postman.com/downloads/)
 
+### Configuração do Banco de Dados
+1. Configure o banco de dados Oracle localmente.
+2. Atualize a string de conexão no arquivo `appsettings.json` se necessário
+
 ## Integrantes do Grupo
 Tomaz de Oliveira Pecoraro – RM98499
 
