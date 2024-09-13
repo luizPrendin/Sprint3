@@ -1,8 +1,6 @@
 using Sprint3.API.Configuration;
 using Sprint3.API.Extensions;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Sprint3.API.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
