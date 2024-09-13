@@ -1,6 +1,4 @@
 ﻿using Sprint3.Models.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace Sprint3.Service
 {

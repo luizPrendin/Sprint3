@@ -1,10 +1,7 @@
-﻿namespace Sprint3.Service
-{
-    using global::Sprint3.Models.Models;
-    using global::Sprint3.Repository;
-
-    using System.Collections.Generic;
-    using System.Threading.Tasks;
+﻿using global::Sprint3.Models.Models;
+using global::Sprint3.Repository;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
     namespace Sprint3.Service
     {
@@ -47,5 +44,4 @@
             }
         }
     }
-}
 
