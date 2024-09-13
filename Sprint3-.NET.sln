@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprint3.Repository", "Sprin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprint3.Service", "Sprint3.Service\Sprint3.Service.csproj", "{7E4F5A66-D3E9-4578-B88E-38E80AF8835B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint3.API", "Sprint3.API\Sprint3.API.csproj", "{A451D4A3-251C-45DD-AFBC-C5B1AA8CCE69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprint3.API", "Sprint3.API\Sprint3.API.csproj", "{A451D4A3-251C-45DD-AFBC-C5B1AA8CCE69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint3.Models", "Sprint3.Models\Sprint3.Models.csproj", "{9F5641C7-EF75-49CF-AC2F-F86183EA4A67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprint3.Models", "Sprint3.Models\Sprint3.Models.csproj", "{9F5641C7-EF75-49CF-AC2F-F86183EA4A67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
