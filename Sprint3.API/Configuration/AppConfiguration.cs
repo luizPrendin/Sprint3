@@ -9,6 +9,7 @@
         public class ConnectionString
         {
             public string OracleFIAP { get; set; }
+            public string SqlServerAzure { get; set; }
         }
 
         public class SwaggerDoc

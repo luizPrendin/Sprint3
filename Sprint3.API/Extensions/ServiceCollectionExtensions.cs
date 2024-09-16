@@ -21,7 +21,7 @@ namespace Sprint3.API.Extensions
         {
             services.AddDbContext<FIAPDBContext>(options =>
             {
-                options.UseOracle(appConfiguration.ConnectionStrings.OracleFIAP);
+                options.UseSqlServer(appConfiguration.ConnectionStrings.SqlServerAzure);
             });
             return services;
         }
