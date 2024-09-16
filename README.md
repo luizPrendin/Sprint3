@@ -23,7 +23,7 @@ Antes de rodar a API, certifique-se de ter os seguintes itens instalados:
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [Postman](https://www.postman.com/downloads/) (para testar os endpoints)
 
-### Configuração do Banco de Dados
+### Configuração do Banco de Dados e Deploy
 
 1. **Configure o Banco de Dados:**
    - Siga as instruções fornecidas para configurar o banco de dados localmente.
@@ -36,7 +36,7 @@ Antes de rodar a API, certifique-se de ter os seguintes itens instalados:
        "SqlSeverAzure": "Data Source=seu_host:1521/seu_serviço;User ID=seu_usuario;Password=sua_senha;"
      }
      ```
-
+   -Após a alteração da String de conexão, realize o commit para iniciar o deploy da aplicação via github Actions
 ### Instalação
 
 1. **Clone o Repositório:**
